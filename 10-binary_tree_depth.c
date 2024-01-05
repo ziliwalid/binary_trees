@@ -2,6 +2,7 @@
 /**
  * binary_tree_depth - does some magic
  * @tree: pointer tree param
+ * Return: 0 or 1 deoends on the condition
  */
 size_t binary_tree_depth(const binary_tree_t *tree)
 {
